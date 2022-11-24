@@ -5,4 +5,4 @@ const path = require("path");
 
 // require("dotenv").config({ path: PATH });
 
-module.exports = ENV;
+module.exports = "production";
